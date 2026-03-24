@@ -1,4 +1,5 @@
-# api_projet_7
+# IMPLÉMENTEZ UN MODÈLE DE SCORING
+
 Create
 P7_dashboard_streamlit
 Projet réalisé dans le cadre du parcours diplômant de Data Scientist d’OpenClassrooms (projet n°7)
